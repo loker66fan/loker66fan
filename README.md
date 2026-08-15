@@ -46,14 +46,18 @@ const loker66fan = {
 ## 技术栈
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/loker66fan/loker66fan/main/1.png" alt="anime-banner" width="820"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,vue,vite,py,fastapi,nodejs,linux,docker,git,github,vscode&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=ts,vue,vite,py,fastapi,nodejs,linux,docker,git,github,vscode&theme=light" alt="skills"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,vue,vite,nuxt,tailwind,py,fastapi,nodejs,express,nginx,redis,mysql,linux,bash,docker,git,github,vscode,vercel,cloudflare&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,vite,nuxt,tailwind,py,fastapi,nodejs,express,nginx,redis,mysql,linux,bash,docker,git,github,vscode,vercel,cloudflare&theme=light" alt="skills"/>
 </picture>
-
-<br/><br/>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loker66fan&theme=tokyonight"/>
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loker66fan&theme=github" alt="stats"/>
