@@ -80,8 +80,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cvue%2Cvite%2Cnuxt%2Ctailwind%2Cpy%2Cfastapi%2Cnodejs%2Cexpress%2Cnginx%2Credis%2Cmysql%2Clinux%2Cbash%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cvercel%2Ccloudflare&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cvue%2Cvite%2Cnuxt%2Ctailwind%2Cpy%2Cfastapi%2Cnodejs%2Cexpress%2Cnginx%2Credis%2Cmysql%2Clinux%2Cbash%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cvercel%2Ccloudflare&theme=light" alt="skills"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cvue%2Cvite%2Cnuxt%2Ctailwind%2Cpy%2Cfastapi%2Cnodejs%2Cexpress%2Cnginx%2Credis%2Cmysql%2Clinux%2Cbash%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cvercel%2Ccloudflare&perline=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cvue%2Cvite%2Cnuxt%2Ctailwind%2Cpy%2Cfastapi%2Cnodejs%2Cexpress%2Cnginx%2Credis%2Cmysql%2Clinux%2Cbash%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cvercel%2Ccloudflare&perline=8&theme=light" alt="skills"/>
 </picture>
 <br/>
 <picture>
