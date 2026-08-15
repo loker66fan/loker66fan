@@ -25,21 +25,47 @@
 
 ## 关于我
 
-```ts
-const loker66fan = {
-    身份: "无名之辈",
-    座右铭: "做什么失败什么",
-    爱好: ["二次元", "写代码", "折腾服务器"],
-    讨厌: "学习 (但代码除外)",
-    技能栈: {
-        前端: ["TypeScript", "Vue 3", "Vite"],
-        后端: ["Python", "FastAPI", "Node.js"],
-        运维: ["Linux", "Docker", "SSH 隧道"]
-    },
-    正在做: "用 AI 搭各种奇怪的玩意儿",
-    博客: "https://halo.loker.ltd"
-} as const;
-```
+<table><tr>
+<td width="50%" valign="top">
+
+### 你好，这里是无名之辈
+
+一名爱折腾的二次元开发者。白天写代码，晚上追番，`学习` 这个词条在我的字典里属于受限访问——但代码例外，那叫创作。
+
+**日常状态**
+
+- 用 Vue 3 和 FastAPI 搭各种奇怪的玩意儿
+- 服务器隧道、Docker、Linux 折腾永无止境
+- 偶尔做做人脸追踪这种"有趣但没用"的项目
+- 讨厌学习，但为了写好代码可以啃三天文档
+
+**找我**
+
+[![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-halo.loker.ltd-7c6cff?style=flat-square&logo=halo&logoColor=white)](https://halo.loker.ltd)
+[![仓库](https://img.shields.io/badge/%E4%BB%93%E5%BA%93-%E5%85%A8%E9%83%A8%E4%BD%9C%E5%93%81-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/loker66fan?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+<div align="center">
+<img src="https://t.alcy.cc/ycy" alt="anime" width="360"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loker66fan&theme=tokyonight"/>
+  <img width="360" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loker66fan&theme=github" alt="profile"/>
+</picture>
+
+</div>
+
+</td>
+</tr></table>
 
 ---
 
@@ -54,8 +80,8 @@ const loker66fan = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,vue,vite,nuxt,tailwind,py,fastapi,nodejs,express,nginx,redis,mysql,linux,bash,docker,git,github,vscode,vercel,cloudflare&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,vite,nuxt,tailwind,py,fastapi,nodejs,express,nginx,redis,mysql,linux,bash,docker,git,github,vscode,vercel,cloudflare&theme=light" alt="skills"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cvue%2Cvite%2Cnuxt%2Ctailwind%2Cpy%2Cfastapi%2Cnodejs%2Cexpress%2Cnginx%2Credis%2Cmysql%2Clinux%2Cbash%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cvercel%2Ccloudflare&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cvue%2Cvite%2Cnuxt%2Ctailwind%2Cpy%2Cfastapi%2Cnodejs%2Cexpress%2Cnginx%2Credis%2Cmysql%2Clinux%2Cbash%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cvercel%2Ccloudflare&theme=light" alt="skills"/>
 </picture>
 <br/>
 <picture>
