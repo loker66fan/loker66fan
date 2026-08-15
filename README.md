@@ -1,4 +1,6 @@
-# loker66fan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e954ff,50:7c6cff,100:22d3ee&section=header" alt="banner"/>
+
+<h1 align="center">loker66fan</h1>
 
 <div align="center">
 
@@ -11,7 +13,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/loker66fan?label=%E7%B2%89%E4%B8%9D&style=flat-square&color=7c6cff" alt="followers"/>
+<a href="https://github.com/loker66fan?tab=followers"><img src="https://img.shields.io/github/followers/loker66fan?label=%E7%B2%89%E4%B8%9D&style=flat-square&color=7c6cff" alt="followers"/></a>
+&nbsp;
+<img src="https://img.shields.io/github/stars/loker66fan?affiliations=OWNER&style=flat-square&color=e954ff&label=star" alt="stars"/>
 &nbsp;
 <img src="https://img.shields.io/badge/%E4%BA%8C%E6%AC%A1%E5%85%83-%E7%88%B1%E5%A5%BD%E8%80%85-e954ff?style=flat-square" alt="anime"/>
 &nbsp;
@@ -104,6 +108,13 @@
   <img height="160" src="https://streak-stats.demolab.com/?user=loker66fan&theme=github&hide_border=true" alt="streak"/>
 </picture>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=loker66fan&theme=tokyo-night&hide_border=true&height=260"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loker66fan&theme=github&hide_border=true&height=260" alt="activity-graph"/>
+</picture>
+
 </div>
 
 ---
@@ -152,5 +163,9 @@
 <div align="center">
 
 <samp>做什么失败什么 · 但今天也在写代码</samp>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e954ff,50:7c6cff,100:22d3ee&section=footer" alt="footer"/>
 
 </div>
