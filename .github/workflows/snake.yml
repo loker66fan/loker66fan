@@ -1,6 +1,8 @@
 name: Generate Snake
 
 on:
+  push:
+    branches: [main]         # 推送 main 时立即生成（首次部署用）
   schedule:
     - cron: "0 16 * * *"  # 每天 UTC 16:00（北京时间凌晨 0 点）运行
   workflow_dispatch:       # 允许手动触发
